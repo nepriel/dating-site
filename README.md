@@ -47,7 +47,6 @@ For more information about the project please see the pdf subject available in f
 
 ### How do I run it on my laptop ?
 You will need docker running on your machine.
-### Build the project
 
 
 ####Setup the environement varibales
