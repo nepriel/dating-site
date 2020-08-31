@@ -47,5 +47,58 @@ For more information about the project please see the pdf subject available in f
 
 ### How do I run it on my laptop ?
 You will need docker running on your machine.
+### Build the project
+
+
+####Setup the environement varibales
+
+- Within the root path 
+
+```bash
+# environment variables
+cp .env-template .env
+```
+
+- Navigate to /backend path 
+
+```bash
+# environment variables
+cp .env-template .env
+```
+
+- Navigate to /frontend path 
+
+```bash
+# environment variables
+cp .env-template .env
+```
+
+####Build the containers
+
+In the root path
+
+```bash
+docker-compose up --build
+```
+
+Note : the port 80 must not be used by another application (like Apache or Skype).
+
+P.S : The build may take some time don't worry be happy and grab a cup of tea :)
+
+Once the containers started.
+Navigate to frontend to start the server.
+
+```bash
+npm start
+```
+P.S : npm version 6.7.0
+
+
+####List of links
+
+```bash
+si.matcha.local:3000 -> backend ( REST API )
+app.matcha.local:8083 -> frontend
+phpmyadmin.matcha.local:8080 -> phpMyAdmin
 
 ![alt text](https://github.com/nepriel/instagram-42/blob/master/hello.PNG "result of evaluation of project")
