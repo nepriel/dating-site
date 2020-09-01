@@ -49,7 +49,7 @@ Notification system is in place : a user receives a notification if :
   * a user dislike your profile
 
 ![](readmeAsset/chat.gif)
-For more information about the project please see the pdf subject available in french and english at ![subject](https://github.com/nepriel/site-de-rencontre/tree/master/subject "subject").
+For more information about the project please see the pdf subject available in french and english at ![subject](https://github.com/nepriel/dating-site/tree/master/subjects "subject").
 
 ### How do I run it on my laptop ?
 You will need docker running on your machine.
