@@ -24,17 +24,19 @@
   * working with team mates
 
 
-![](insta2.gif)
+![](readmeAsset/connect.gif)
 
 ## What is this project ?
 This is a dating app that has 4 main features :
 ### 1. User Features
 A user can register. A mail of confirmation is send to validate his registration. A user can login. A user can modify his information and password once login. A user can reset his password if he forgets it with his mail address. A user can : upload photos, define a profile picture, define his bio, define his age, define his sex and sexual orientation, define tags to better describe him and others...
+![](readmeAsset/profile.gif)
 ### 2. Matching and Public Profiles of other Users
 A selection of user profiles is proposed to the connected user according to his parameters (sex, geographic proximity, interests in common, fame score). He can click on each users to consult their profiles. Each profile is likable, blockable, reportable and dislikable.
-![](insta3.gif)
+![](readmeAsset/search.gif)
 ### 3. Search Engine (sorting and filtering)
 You can search for specific user according to specific tags, geographic proximity, age and fame. You can also sort the selection through these properties.
+![](readmeAsset/chat.gif)
 ### 4. Notifications and Chat
 Once two users have liked each other (match) their pictures appear in the user selection of the chat page and they can exchange messages (they can chat).
 Notification system is in place : a user receives a notification if : 
