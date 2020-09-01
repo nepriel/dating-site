@@ -107,4 +107,4 @@ app.matcha.local:8083 -> frontend
 phpmyadmin.matcha.local:8080 -> phpMyAdmin
 ```
 
-![alt text](https://github.com/nepriel/instagram-42/blob/master/hello.PNG "result of evaluation of project")
+![alt text](https://github.com/nepriel/dating-site/blob/master/readmeAsset/correction.PNG "result of evaluation of project")
