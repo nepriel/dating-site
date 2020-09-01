@@ -47,6 +47,7 @@ Notification system is in place : a user receives a notification if :
   * a user likes your profile
   * a user sends you a message
   * a user dislike your profile
+
 ![](readmeAsset/chat.gif)
 For more information about the project please see the pdf subject available in french and english at ![subject](https://github.com/nepriel/site-de-rencontre/tree/master/subject "subject").
 
